@@ -21,7 +21,7 @@ background( r,b,g );
     b = random(255);
 	
 	mouseIsPressed && background( r,b,g );
-	mouseIsPressed && rect(600, 600, 80,80)	
+	//mouseIsPressed && rect(600, 600, 80,80)	
 	mouseIsPressed && fill( r, g, b)
 	
 	}	
